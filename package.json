@@ -1,0 +1,22 @@
+{
+    "name": "yum2food-backend",
+    "version": "1.0.0",
+    "description": "Backend API for login and signup using Node.js, Express, and MongoDB",
+    "main": "server.js",
+    "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
+"dependencies": {
+  "react-scripts": "^5.0.1"
+},
+
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "MIT"
+}
